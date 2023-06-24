@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  width: 60%;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #6CB4EE;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 3em;
+    margin-top: 2rem;
+}
+
+#away-score {
+    color: red;
+    position: relative;
+    bottom: 30px;
+}
+
+#home-score {
+    color: red;
+    position: relative;
+    bottom: 30px;
+}
+
+#score {
+    background-color: black;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 4rem;
+    overflow: hidden;
+    white-space: nowrap;
+    height: 140px;
+    width: 160px;
+}
+
+sl-button {
+    left: 2.4rem;
+    top: 1rem;
+}
+
+.reset {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
