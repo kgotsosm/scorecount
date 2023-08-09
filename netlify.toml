@@ -1,2 +1,0 @@
-[build]
-command = "echo 'No build step needed for a simple HTML, CSS, and JavaScript app.'"
