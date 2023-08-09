@@ -1,4 +1,11 @@
-# Scoreboard
+# Scoreboard App
+
+The Scoreboard App is a simple web application that allows users to keep track of scores by incrementing and decrementing them. It's built using HTML, CSS, and JavaScript as part of the Scrimba Javascript course.
+
+## Features
+
+- Increment and decrement scores.
+- Display the updated scores in real-time.
 
 Quick start:
 
@@ -7,7 +14,26 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
+## Usage
+
+1. **Open the App**:
+
+Open the `index.html` file in a web browser.
+
+2. **Interact with Scores**:
+
+- Click the "+" button to increment the score.
+- Click the "-" button to decrement the score.
+
+3. **Observe Real-time Updates**:
+
+The scores are updated in real-time as you interact with the buttons.
+
+## Customization
+
+You can customize the app's appearance and behavior by modifying the CSS and JavaScript files.
+
+
 
 ## About Scrimba
 
